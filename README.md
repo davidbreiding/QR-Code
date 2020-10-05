@@ -1,2 +1,2 @@
 # QR-Code
-Implementation QR-Code in Java
+QR-Code in Java
