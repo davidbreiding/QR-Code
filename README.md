@@ -1,2 +1,2 @@
 # QR-Code
-QR-Code in Java
+QR-Code Generator und Reader in Java. Größe individualisierbar.
